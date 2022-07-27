@@ -1,8 +1,8 @@
-# php-pdo-singleton-class
+# php-database-class
 A singleton class Database which uses PDO and prepared statements .
 
 ## Initialization
-Edit class consts values according to your databse
+Edit class consts values according to your database
 ```php
 private const HOST = 'your database host name';
 private const NAME = 'your database name';
